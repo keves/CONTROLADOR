@@ -16,5 +16,6 @@ public class suma {
         b=8;
         c=a+b;
         System.out.println(""+c);
+        // esta mal weon ni un piche programa puedes .l.marik
     }
 }
