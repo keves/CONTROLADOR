@@ -14,7 +14,8 @@ import java.util.Scanner;
 public class Ejercicio1 {
 
     public static void main(String[] args) 
-    {        
+    {    
+        // ¬¬ cpillo jajaajjajaja
         Scanner sc = new Scanner(System.in);
         int numero;
         System.out.println("Introduce un número entero:");
