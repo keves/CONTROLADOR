@@ -17,5 +17,12 @@ public class suma {
         c=a+b;
         System.out.println(""+c);
         // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
+        // esta mal weon ni un piche programa puedes .l.marik
     }
 }
