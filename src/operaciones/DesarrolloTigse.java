@@ -7,14 +7,10 @@ package operaciones;
 
 /**
  *
- * @author PC 07
+ * @author PC 04
  */
-public class DesarrolloSayay {
+public class DesarrolloTigse {
     
-    //  ¿CUANTOS AÑOS TIENES?
-    // 20 años    //lopez
-    // 21 =D
-    
-    //20 //Tigse
+    //como van?
     
 }
