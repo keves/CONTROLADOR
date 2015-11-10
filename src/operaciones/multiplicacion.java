@@ -16,12 +16,12 @@ public class multiplicacion {
         float x,y,z;
         
         Scanner taclado= new Scanner(System.in);
-        System.out.println("num1:");
+        System.out.print("Num1:");
         x=Float.valueOf(taclado.nextLine());
-        System.out.println("num2:");
+        System.out.print("Num2:");
         y=Float.valueOf(taclado.nextLine());
         z=x*y;
-        System.out.println("total:" + z);
+        System.out.println("Total:" + z);
         
     }
 }
