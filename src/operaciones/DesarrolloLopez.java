@@ -11,7 +11,7 @@ package operaciones;
  */
 public class DesarrolloLopez {
     public static void main(String[] args) {
-    //  Q que mas mimas
+    //  Q que mas mimas :D
     }
     
 }
