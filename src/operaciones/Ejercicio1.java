@@ -25,6 +25,7 @@ public class Ejercicio1 {
         System.out.println("Triple de " + numero + " -> "+ 3*numero);
         System.out.println("Cuarto de " + numero + " -> "+ 4*numero);
         System.out.println("Quinto de " + numero + " -> "+ 5*numero);
+        System.out.println("Completo :D");
     }
 
 }
